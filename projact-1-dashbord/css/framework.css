@@ -1,0 +1,264 @@
+/* posthion */
+
+.d-f {
+    display: flex;
+    align-items: center;
+}
+
+.f-w {
+    flex-wrap: wrap
+}
+
+.center {
+    justify-content: center;
+}
+
+.f-s {
+    align-items: flex-start;
+}
+
+.speas {
+    justify-content: space-around;
+}
+
+.speas2 {
+    justify-content: space-between;
+}
+
+.col {
+    flex-direction: column;
+    align-content: center;
+}
+
+.t-f {
+    transition: 0.4S ease;
+}
+
+
+/* ---- */
+
+.p-20 {
+    padding: 20px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.pl-10 {
+    padding-left: 10px;
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.m-10 {
+    margin: 10px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.p-re {
+    position: relative;
+}
+
+
+/* --------------- */
+
+.f-s-20 {
+    font-size: 20px;
+}
+
+.f-s-30 {
+    font-size: 30px;
+}
+
+.f-s-12 {
+    font-size: 12px;
+}
+
+
+/* color */
+
+.c-w {
+    background-color: #ffffff;
+}
+
+.c-w1 {
+    background-color: #3a3a3b;
+}
+
+.c-r {
+    background-color: #f44336;
+}
+
+.c-r1 {
+    background-color: #f443366a;
+}
+
+.c-y {
+    background-color: #f59e0b;
+}
+
+.c-y1 {
+    background-color: #f59f0b79;
+}
+
+.c-b {
+    background-color: #0075ff;
+}
+
+.c-b1 {
+    background-color: #cce4f0;
+}
+
+.c-g {
+    background-color: #76cd06;
+}
+
+.c-g1 {
+    background-color: #a1f63252;
+}
+
+.c-blk {
+    background-color: #111;
+}
+
+.cu-p {
+    cursor: pointer;
+}
+
+.ali-t {
+    text-align: start;
+}
+
+.over {
+    overflow: hidden;
+}
+
+
+/* color font */
+
+.c-f-w {
+    color: #ffffff;
+}
+
+.c-f-w1 {
+    color: #f1f5f9;
+}
+
+.c-f-r {
+    color: #f44336;
+}
+
+.c-f-y {
+    color: #f59e0b;
+}
+
+.c-f-y1 {
+    color: #f59f0b79;
+}
+
+.c-f-b {
+    color: #0075ff;
+}
+
+.c-f-b1 {
+    color: #cce4f0;
+}
+
+.c-f-blk {
+    color: #000000;
+}
+
+.c-f-ww1 {
+    color: #a1a2a2;
+}
+
+.c-fg {
+    color: #91ff00;
+}
+
+.c-fg1 {
+    color: #98c65c52;
+}
+
+
+/* font-size */
+
+
+/* font-c */
+
+
+/* border */
+
+.b-r {
+    border-radius: 50px;
+}
+
+.b-r10 {
+    border-radius: 10px;
+}
+
+
+/*  siez border */
+
+.w-200 {
+    width: 200px;
+}
+
+.w-100 {
+    width: 100px;
+}
+
+.h-75 {
+    width: 75px;
+}
+
+.w-50 {
+    width: 50px;
+}
+
+.w-75 {
+    width: 75px;
+}
+
+.w-25 {
+    width: 25px;
+}
+
+
+/* --- */
+
+.h-100 {
+    height: 100px;
+}
+
+.h-50 {
+    height: 50px;
+}
+
+.h-25 {
+    height: 25px;
+}
+
+
+/* -- */
+
+.w-100p {
+    width: 100%;
+}
+
+.h-100p {
+    height: 100%;
+}
+
+
+/* --- */
